@@ -261,7 +261,6 @@ h4 {
 
 .live {
     background: #151516;
-    padding: 40px;
 }
 
 
@@ -274,6 +273,7 @@ h4 {
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin: 15px;
 }
 
 .live a {
@@ -341,6 +341,7 @@ h4 {
 
 .footer a {
     color: #333;
+    text-decoration: none;
 }
 
 .footer-container {
